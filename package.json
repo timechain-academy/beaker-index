@@ -10,7 +10,7 @@
   "author": "Paul Frazee <pfrazee@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "hyperdrive": "git+https://github.com/hypercore-protocol/hyperdrive#hyperspace-port",
+    "hyperdrive": "https://github.com/hypercore-protocol/hyperdrive.git#hypercore-8",
     "hyperspace": "github:hyperspace-org/hyperspace#master",
     "got": "^11.3.0"
   }
